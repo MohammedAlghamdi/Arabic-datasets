@@ -12,3 +12,5 @@ Please feel free to send me pull requests or email (scmmalg@leeds.ac.uk) to add 
 ### [Arab celebrities open dataset](https://github.com/mohammad-alfaifi/arab-celeb-dataset)
   * contains 17,304 images of Arabic actors and singers with different resolution.
 # Videos 
+### [ArabCeleb: Speaker Recognition in Arabic](https://github.com/CeLuigi/ArabCeleb)
+  * contains 1930 utterances from 100 celebrities taken from video on YouTube.com 

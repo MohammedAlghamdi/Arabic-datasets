@@ -1,6 +1,6 @@
 # Arabic-datasets
 This is just to keep track of all available Arabic datasets in AI. 
-Please feel free to send me pull requests or email (scmmalg@leeds.ac.uk) to add links.
+Please feel free to send me pull requests or email (alghamdi.m.mohammed@gmail.com) to add links.
 
 # Audio 
 ### [MASC: MASSIVE ARABIC SPEECH CORPUS](https://ieee-dataport.org/open-access/masc-massive-arabic-speech-corpus)
